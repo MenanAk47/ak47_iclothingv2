@@ -1,6 +1,6 @@
 Config = {}
 Config.Locale = "en"
-Config.PatreonEmail = 'amanullahmenan@gmail.com'               --Take authorization with your patreon email.
+Config.PatreonEmail = 'Your Patron Email'               --Take authorization with your patreon email.
 Config.SharedObjectName = 'esx:getSharedObject'         --Change if you Shared Object Name is different
     
 Config.FullChecking = true 	-- 	Make a full check of player clothing after joining the server and after closing the skin menu. 
